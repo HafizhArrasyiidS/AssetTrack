@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869708616173",
+    "project_id": "inventoryapp-e32cb",
+    "storage_bucket": "inventoryapp-e32cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869708616173:android:b7974a7b481349cced97e4",
+        "android_client_info": {
+          "package_name": "com.example.assettrack2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_Egu849wk0aaFSFFjWEs9yBYRVtpTxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
